@@ -4,7 +4,7 @@
 
 Articoles:
 
-    [jquery autocomplete with PHP and MySql](http://www.htmlblog.us/jquery-autocomplete)
+[jquery autocomplete with PHP and MySql](http://www.htmlblog.us/jquery-autocomplete)
 
 Create plugin
 
